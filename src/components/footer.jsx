@@ -1,9 +1,9 @@
 function Footer(){
     return(
     <>
-    <div className="flex flex-row bg-black gap-4 md:40 justify-center">
+    <div className="flex flex-row bg-black gap-4 md:40 justify-center text-2xl">
         <h1 className=" text-white font-CosmicIndustry ">&copy; Techy</h1>
-        <h1 className="text-white">Home</h1>
+        <h1>Home</h1>
     </div>
     </>
     )

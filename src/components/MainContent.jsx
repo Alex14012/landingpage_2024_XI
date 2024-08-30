@@ -3,7 +3,7 @@ function MainContent(){
         <>
         <div className="flex gap-1 flex-col">
             <div className="relative flex flex-col h-[500px] w-full overflow-hidden">
-            <div className="h-full w-full bg-[url('src/assets/img/article/crossup.jpg')] transition bg-no-repeat bg-cover bg-center hover:scale-125 ease-in-out delay-150 duration-500 peer">
+            <div className="h-full w-full bg-Crossup transition bg-no-repeat bg-cover bg-center hover:scale-125 ease-in-out delay-150 duration-500 peer">
             </div>
             <div className="absolute w-full bottom-0 transition ease-linear flex flex-col bg-white peer-hover:opacity-30"> 
                     <h1 className="text-5xl font-PlusJakartaSans font-medium">
@@ -16,7 +16,7 @@ function MainContent(){
             </div>
 
             <div className="relative flex flex-col h-[500px] w-full overflow-hidden">
-            <div className="h-full w-full bg-[url('src/assets/img/article/Kasane_Teto.jpg')] transition bg-no-repeat bg-cover bg-center hover:scale-125 ease-in-out delay-150 duration-500 peer">
+            <div className="h-full w-full bg-KasaneTeto transition bg-no-repeat bg-cover bg-center hover:scale-125 ease-in-out delay-150 duration-500 peer">
             </div>
                 <div className="absolute bottom-0 w-full transition ease-linear flex flex-col bg-white peer-hover:opacity-30"> 
                     <h1 className="text-5xl font-PlusJakartaSans font-medium">
@@ -29,7 +29,7 @@ function MainContent(){
             </div>
 
             <div className="relative flex flex-col h-[500px] w-full overflow-hidden">
-            <div className="h-full w-full bg-[url('src/assets/img/article/CPU.jpg')] transition bg-no-repeat bg-cover bg-center hover:scale-125 ease-in-out delay-150 duration-500 peer">
+            <div className="h-full w-full bg-CPU transition bg-no-repeat bg-cover bg-center hover:scale-125 ease-in-out delay-150 duration-500 peer">
             </div>
                 <div className="absolute bottom-0 w-full transition ease-linear flex flex-col bg-white peer-hover:opacity-30"> 
                     <h1 className="text-5xl font-PlusJakartaSans font-medium">
